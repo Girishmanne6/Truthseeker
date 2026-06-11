@@ -2,6 +2,12 @@
 
 > AI-Powered Fact Checking — search Wikipedia, DuckDuckGo and Reddit simultaneously, then synthesise a verdict with GPT-4o-mini.
 
+## Screenshots
+
+| Home | Fact-check results | Follow-up chat |
+|------|-------------------|----------------|
+| ![TruthSeeker home](docs/screenshot-home.png) | ![TruthSeeker results](docs/screenshot-results.png) | ![TruthSeeker chat](docs/screenshot-chat.png) |
+
 ---
 
 ## Architecture
